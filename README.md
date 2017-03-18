@@ -5,3 +5,5 @@ To investigate if the education level of parents would affect that of their chil
 ## Methods 
 
 Using simple linear regression 
+
+Testing
